@@ -1,0 +1,13 @@
+
+.text-color2 {
+    color: rgba(93, 90, 136, 0.501);
+}
+.bg-text-color3{
+    background-color: #F2F1FA;
+}
+.bg-btn-color1{
+    background-color: #7b77b4;
+}
+.bg-btn-color1:hover{
+    background-color: #5D5A88;
+}
